@@ -1,0 +1,127 @@
+*{
+	font-family: Arial Verdana Helvetica ;
+	text-decoration: none;
+
+}
+ a:visited{
+	color: black;
+}
+ a:link{
+	color: black;
+}
+
+.d-block {
+	width: 100px;
+	height: 100px;
+}
+.bx-home{
+	width: 50px;
+	height: 50px;
+	border:gray ;
+	font-size: 30px;
+
+}
+
+.bx-home:hover{
+	
+}
+ .crossfade{
+ 	width: 80px;
+ 	height: 60px;
+ 	margin-left: 25px;
+ 	margin-right: 25px;
+ }
+
+ .figure{
+ 	margin-left: 300px;
+ }
+
+ #Offcanvas{
+ 	float: left;
+ background-color: white;
+ margin-top:15px;
+ margin-left:10px;
+ font-size:20px;
+ }
+ .masis2schools{
+ 	background-color: white;
+ 	text-decoration: none;
+ 	font-family: Arial Verdana Helvetica ;
+ 	color: black;
+ 	border: 1px;
+ 	border-radius:25px ;
+ 	margin-top: 15px;
+ }
+ .masis2schools:hover{
+ 	background-color: white;
+ 	text-decoration: none;
+ 	font-family: Arial;
+ 	color: black;
+ 	border:1px;
+ 	border-color:ivory;
+ 	border-radius:25px;
+ 	color:;
+
+ }
+ a{
+ 	text-decoration: none;
+ }
+ details > summary {
+ 	
+ padding: 5px;
+ background-color: #eee;
+ color: #333;
+ border: 1px #ccc solid;
+ cursor: pointer;
+ list-style: none;
+ border-radius:25px;
+ width: 150px;
+ height: 60px;
+
+ }
+ 
+ details > div {
+ border: 1px #ccc solid;
+ padding: 10px;
+ border-radius:25px;
+ width: 190px;
+ padding-left: 5px;
+ }
+ 
+details[open] > summary {
+ color:#eee; 
+  background-color:gray;
+  
+}
+details > summary:hover{
+	box-shadow:1px 1px 1px 1px rgba(0, 0, 0, 0.2);;
+}
+
+navbar-expand-lg navbar-light bg-light:hover{
+ box-shadow:1px 1px 1px 1px rgba(0, 0, 0, 0.2);;
+}
+.offcanvas-body {
+	list-style-type:none;
+	color: black;
+	margin-right: 2px;
+	}
+
+
+.glavheader-top{
+	margin-top: 2px;
+	padding: 1px;
+	font-family: 'IBM Plex Mono', monospace;
+	width: 150px;
+	height: 55px;
+	margin-left: 860px;
+	margin-right: 150px;
+	
+}
+.offcanvas-body:hover{
+	margin-top:;}
+ .btn btn-primary btn-floating m-1{
+ 	margin-left: 150px;
+ }
+ .mb-4{
+ 	margin-left: 300px;
+ }

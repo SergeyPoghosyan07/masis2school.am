@@ -1,0 +1,108 @@
+*{
+	 font-family: 'Fjalla One', Tahoma, Verdana, Arial; ;
+	margin-left: 5px;
+	list-style-type: none;
+	color:black;
+	text-decoration: none;
+
+}
+ a:visited{
+	color:black;
+}
+ a:link{
+	color:black;
+}
+#Offcanvas{
+ 	float: left;
+ background-color: white;
+ margin-top:15px;
+ margin-left:10px;
+ font-size:20px;
+ list-style-type: none;
+ }
+ .masis2schools{
+ 	background-color: white;
+ 	text-decoration: none;
+ 	font-family: Arial Verdana Helvetica ;
+ 	color:black;
+ 	border: 1px;
+ 	border-radius:25px ;
+ 	margin-top: 15px;
+ 	list-style-type: none;
+ }
+ .masis2schools:hover{
+ 	background-color: white;
+ 	text-decoration: none;
+ 	font-family: Arial;
+ 	color:black;
+ 	border:1px;
+ 	border-color:ivory;
+ 	border-radius:25px;
+ 	color:black;
+ 	list-style-type: none;
+
+ }
+ .offcanvas-body {
+	list-style-type:none;
+	color:black;
+	margin-right: 2px;
+	}
+
+
+.glavheader-top{
+	margin-top: 2px;
+	padding: 1px;
+	font-family: 'IBM Plex Mono', monospace;
+	width: 150px;
+	height: 55px;
+	margin-left: 860px;
+	margin-right: 150px;
+	list-style-type: none;
+	
+}
+.offcanvas-body:hover{
+	margin-top:;
+ }
+
+.head{
+	margin-top: 5px;
+	margin-left: 25px;
+	 background-image: linear-gradient(left black,white);
+    background-image: -o-linear-gradient(left  black,white);
+    background-image: -moz-linear-gradient(left black,white);
+    background-image: -webkit-linear-gradient(left black,white);
+}
+ a:visited{
+	color: black;
+}
+  a:link{
+	color: black;
+}
+.mb-4{
+ 	margin-left: 250px;
+ 	margin-top: 800px;
+ }
+
+ .col{
+ 	width: 300px;
+ 	height: 250px;
+ }
+ .head{
+ 	width: 650px;
+ 	height: 1450px;
+ 	border: 2px black; solid;
+ 	border-radius: 8px;
+ 	background-color: gray;
+ }
+ #titleh3{
+ 	border: 2px #e2e2e2; solid;
+ 	border-radius: 8px;
+ 	width: 550px;
+ 	height: 80px;
+ 	background-color: #f5f5f5;;
+ 	color: lightblack;
+ 	margin-left:50px ;
+ }
+ 
+
+ 

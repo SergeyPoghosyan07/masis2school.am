@@ -1,0 +1,100 @@
+*{
+	font-family: Arial Verdana Helvetica ;
+	margin-left: 5px;
+	text-decoration: none;
+
+}
+ a:visited{
+	color: black;
+	list-style-type: none;
+	text-decoration: none;
+}
+ a:link{
+	color: black;
+	list-style-type: none;
+	text-decoration: none;
+}
+#Offcanvas{
+ 	float: left;
+ background-color: white;
+ margin-top:15px;
+ margin-left:10px;
+ font-size:20px;
+ }
+ .masis2schools{
+ 	background-color: white;
+ 	text-decoration: none;
+ 	font-family: Arial Verdana Helvetica ;
+ 	color: lightgray;
+ 	border: 1px;
+ 	border-radius:25px ;
+ 	margin-top: 15px;
+ }
+ .masis2schools:hover{
+ 	background-color: white;
+ 	text-decoration: none;
+ 	font-family: Arial;
+ 	color: lightgray;
+ 	border:1px;
+ 	border-color:ivory;
+ 	border-radius:25px;
+ 	color:;
+
+ }
+ .offcanvas-body {
+	list-style-type:none;
+	color: lightgray;
+	margin-right: 2px;
+	}
+
+
+.glavheader-top{
+	margin-top: 2px;
+	padding: 1px;
+	font-family: 'IBM Plex Mono', monospace;
+	width: 150px;
+	height: 55px;
+	margin-left: 860px;
+	margin-right: 150px;
+	
+}
+.offcanvas-body:hover{
+	margin-top:;
+ }
+
+.head{
+	margin-top: 5px;
+	margin-left: 25px;
+	 background-image: linear-gradient(left,lightgray,white);
+    background-image: -o-linear-gradient(left,lightgray,white);
+    background-image: -moz-linear-gradient(left,lightgray,white);
+    background-image: -webkit-linear-gradient(left,lightgray,white);
+}
+#titleh3{
+	margin-left: 50px;
+}
+p{
+	text-indent: 25px;
+}
+.mb-4{
+ 	margin-left: 300px;
+ }
+ .glavdiv{
+ 	width:900px;
+ 	height: 850px;
+ 	border:5px lightgray solid;
+ 	border-radius: 15px;
+ 	margin-left: 500px;
+ 	margin-top: 25px;
+ 	padding: 5px;
+ }
+.bg-light {
+	margin-bottom: 25px;
+	margin-right:7px;
+
+}
+.rounded {
+	margin-top: 25px;
+	width:1000px;
+	height:50px ;
+}
